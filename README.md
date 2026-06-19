@@ -1,4 +1,3 @@
-```markdown
 # 🔥 ENCRYPTER v1.0 – SECURE LUA ENCRYPTER 🔥
 
 <div align="center">
