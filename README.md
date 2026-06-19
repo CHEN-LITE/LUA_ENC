@@ -1,3 +1,4 @@
+```markdown
 # 🔥 ENCRYPTER v1.0 – SECURE LUA ENCRYPTER 🔥
 
 <div align="center">
@@ -15,32 +16,22 @@
  
 <div align="center">
   
-![Screenshot](Screenshot_20260615-225643.jpg)
+![Screenshot](IMG_20260619_143955_423.jpg)
  
 </div>
 
 ---
 
-## 🛡️ **FEATURES – ULTIMATE PROTECTION SYSTEM**
+## 🛡️ **FEATURES**
 
-<div align="center">
-
-# Lua LUA_ENC v1.0
-
-A powerful Lua script LUA_ENC with functionality. This tool encrypts Lua files.
-
-## Features
-
-- **Lua File Encryption**: LUA_ENC Lua scripts using string conversion
+- **Lua File Encryption**: Encrypt Lua scripts using string conversion
 - **Colorful Interface**: Dynamic color themes for better user experience
 - **File Management**: View and manage files in the working directory
 - **Cross-Platform**: Works on Termux, Linux, and Windows
 
-</div>
-
 ---
 
-📂 DEFAULT WORKING DIRECTORY
+## 📂 DEFAULT WORKING DIRECTORY
  
 ```
 
@@ -52,7 +43,7 @@ A powerful Lua script LUA_ENC with functionality. This tool encrypts Lua files.
 
 ---
 
-## Installation
+## 🚀 INSTALLATION
 
 ### Termux Installation
 
@@ -68,13 +59,25 @@ pkg install git -y
 # Install Python modules
 pip install requests
 
-# Clone repository or create script
+# Clone repository
 git clone https://github.com/CHEN_LITE/LUA_ENC.git
 cd LUA_ENC
 
-# Ran Tool
+# Run Tool
 chmod +x *
 ./luaenc
+```
+
+Linux Installation
+
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+pip3 install requests
+git clone https://github.com/CHEN_LITE/LUA_ENC.git
+cd LUA_ENC
+chmod +x luaenc
+python3 luaenc
 ```
 
 ---
@@ -82,7 +85,7 @@ chmod +x *
 📢 JOIN OUR COMMUNITY
 
 Platform Link
-▶️ YouTube https://youtube.com/@4am-chen?si=Djsae5rrJrLsCDP8
+▶️ YouTube https://youtube.com/@4am-chen
 📡 Telegram https://t.me/+L7eG4ZAQ9nI1ODM1
 💬 DM Owner @CHEN_TOOL2™
 
@@ -101,6 +104,8 @@ Do not use on code you do not own. Author is not responsible for misuse.
 🔥 VERSION v1.0 🔥
 
 ⭐ Star this repo if you found it useful ⭐
+
+Made with ❤️ by CHEN_TOOL2™
 
 </div>
 ```
