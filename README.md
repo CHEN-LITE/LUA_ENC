@@ -10,15 +10,15 @@
 </div>
 
 ---
- 
+
 ## 📸 SCREENSHOT
  
 <div align="center">
   
-![Screenshot](IMG_20260619_143955_423.jpg)
+![Screenshot](Screenshot_20260615-225643.jpg)
  
 </div>
- 
+
 ---
 
 ## 🛡️ **FEATURES – ULTIMATE PROTECTION SYSTEM**
@@ -36,17 +36,20 @@ A powerful Lua script LUA_ENC with functionality. This tool encrypts Lua files.
 - **File Management**: View and manage files in the working directory
 - **Cross-Platform**: Works on Termux, Linux, and Windows
 
+</div>
 
 ---
- 
+
 📂 DEFAULT WORKING DIRECTORY
  
 ```
+
 /storage/emulated/0/Download/LUA_ENC/
+
 ```
  
 💡 Place your .lua files inside this folder before encryption.
- 
+
 ---
 
 ## Installation
@@ -66,25 +69,24 @@ pkg install git -y
 pip install requests
 
 # Clone repository or create script
-git clone https://github.com/CHEN_LITE/lLUA_ENC.git
+git clone https://github.com/CHEN_LITE/LUA_ENC.git
 cd LUA_ENC
 
 # Ran Tool
 chmod +x *
 ./luaenc
+```
 
 ---
 
- 
 📢 JOIN OUR COMMUNITY
- 
+
 Platform Link
 ▶️ YouTube https://youtube.com/@4am-chen?si=Djsae5rrJrLsCDP8
 📡 Telegram https://t.me/+L7eG4ZAQ9nI1ODM1
 💬 DM Owner @CHEN_TOOL2™
- 
+
 ---
- 
 
 ⚠️ DISCLAIMER
 
